@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\sem2\Low Power\git\Robonauts\PCB1_Tejas.PcbDoc
 Date     : 05-04-2017
-Time     : 17:15:16
+Time     : 23:11:59
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -13,22 +13,19 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=12mil) (Max=20mil) (Preferred=20mil) ((InNet('2.8V') OR InNet('3.3V') OR InNet('5V') OR InNet('4V') OR InNet('GND') OR InNet('VBUS') OR InNet('IR_PWR') OR InNet('V_BAT')))
-   Violation between Width Constraint: Track (376mil,2890mil)(376mil,3136mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
+   Violation between Width Constraint: Track (1977.841mil,613.4mil)(1984mil,619.559mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
+   Violation between Width Constraint: Track (580.087mil,2979.913mil)(600.63mil,2979.913mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
+   Violation between Width Constraint: Track (962.468mil,3194.468mil)(980.945mil,3194.468mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
+   Violation between Width Constraint: Track (899.559mil,3096mil)(899.559mil,3136mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
+   Violation between Width Constraint: Track (899.032mil,3136.528mil)(899.559mil,3136mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
+   Violation between Width Constraint: Track (584mil,3136.528mil)(584mil,3216mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
+   Violation between Width Constraint: Track (376mil,2890mil)(376mil,3086mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
    Violation between Width Constraint: Track (639.118mil,310.882mil)(639.118mil,358.787mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
    Violation between Width Constraint: Track (2519.976mil,1443.858mil)(2519.976mil,1449.764mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
    Violation between Width Constraint: Track (883.559mil,3448mil)(883.559mil,3512mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
-   Violation between Width Constraint: Track (899.559mil,3176mil)(944mil,3176mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
-   Violation between Width Constraint: Track (944mil,3176mil)(962.468mil,3194.468mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
-   Violation between Width Constraint: Track (899.559mil,3096mil)(899.559mil,3136mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
-   Violation between Width Constraint: Track (899.559mil,3136mil)(899.559mil,3176mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
    Violation between Width Constraint: Track (883.559mil,3512mil)(941.532mil,3512mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
    Violation between Width Constraint: Track (941.532mil,3512mil)(952mil,3522.468mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
    Violation between Width Constraint: Track (952mil,3522.468mil)(972.945mil,3522.468mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
-   Violation between Width Constraint: Track (584mil,3136mil)(584mil,3216mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
-   Violation between Width Constraint: Track (376mil,3136mil)(584mil,3136mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
-   Violation between Width Constraint: Track (584mil,3136mil)(584.528mil,3136.528mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
-   Violation between Width Constraint: Track (899.032mil,3136.528mil)(899.559mil,3136mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
-   Violation between Width Constraint: Track (584.528mil,3136.528mil)(899.032mil,3136.528mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
    Violation between Width Constraint: Track (1095.37mil,2716.819mil)(1168.181mil,2716.819mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
    Violation between Width Constraint: Track (1637.575mil,1477.575mil)(1683mil,1523mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
    Violation between Width Constraint: Track (1110.205mil,1174.205mil)(1110.205mil,1272.85mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
@@ -36,7 +33,6 @@ Processing Rule : Width Constraint (Min=12mil) (Max=20mil) (Preferred=20mil) ((I
    Violation between Width Constraint: Track (883.26mil,1497.26mil)(944.85mil,1497.26mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
    Violation between Width Constraint: Track (867.055mil,1516.945mil)(944.85mil,1516.945mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
    Violation between Width Constraint: Track (1366.11mil,1198.89mil)(1378mil,1187mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
-   Violation between Width Constraint: Track (962.468mil,3194.468mil)(980.945mil,3194.468mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
    Violation between Width Constraint: Track (1129.89mil,1187.047mil)(1129.89mil,1272.85mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
    Violation between Width Constraint: Track (2315.252mil,1676.142mil)(2315.252mil,1743.748mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
    Violation between Width Constraint: Track (1551.15mil,1477.575mil)(1637.575mil,1477.575mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
@@ -44,7 +40,6 @@ Processing Rule : Width Constraint (Min=12mil) (Max=20mil) (Preferred=20mil) ((I
    Violation between Width Constraint: Track (1107.181mil,2768mil)(1155mil,2768mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
    Violation between Width Constraint: Track (1155mil,2768mil)(1178mil,2791mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
    Violation between Width Constraint: Track (1366.11mil,1198.89mil)(1366.11mil,1272.85mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
-   Violation between Width Constraint: Track (580.087mil,2979.913mil)(600.63mil,2979.913mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
    Violation between Width Constraint: Track (1063mil,2768mil)(1107.181mil,2768mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
    Violation between Width Constraint: Track (1036.315mil,2794.685mil)(1036.315mil,2819.181mil) on Top Layer Actual Width = 8mil, Target Width = 12mil
    Violation between Width Constraint: Track (1358mil,1932.456mil)(1358mil,1972.441mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
@@ -53,7 +48,6 @@ Processing Rule : Width Constraint (Min=12mil) (Max=20mil) (Preferred=20mil) ((I
    Violation between Width Constraint: Track (1366.11mil,1879.15mil)(1366.11mil,1924.346mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
    Violation between Width Constraint: Track (1358mil,1932.456mil)(1366.11mil,1924.346mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
    Violation between Width Constraint: Track (1835.19mil,613.4mil)(1977.841mil,613.4mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
-   Violation between Width Constraint: Track (1977.841mil,613.4mil)(1984mil,619.559mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
    Violation between Width Constraint: Track (1036.315mil,2794.685mil)(1056mil,2775mil) on Top Layer Actual Width = 8mil, Target Width = 12mil
    Violation between Width Constraint: Track (1056mil,2775mil)(1063mil,2768mil) on Top Layer Actual Width = 8mil, Target Width = 12mil
    Violation between Width Constraint: Track (1552.819mil,1459.559mil)(1688mil,1459.559mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
@@ -72,7 +66,7 @@ Processing Rule : Width Constraint (Min=12mil) (Max=20mil) (Preferred=20mil) ((I
    Violation between Width Constraint: Track (554.472mil,437.527mil)(584mil,408mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
    Violation between Width Constraint: Track (639.118mil,378.472mil)(701.472mil,378.472mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
    Violation between Width Constraint: Track (701.472mil,378.472mil)(702mil,379mil) on Top Layer Actual Width = 10mil, Target Width = 12mil
-Rule Violations :59
+Rule Violations :53
 
 Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
 Rule Violations :0
@@ -84,5 +78,5 @@ Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 59
+Violations Detected : 53
 Time Elapsed        : 00:00:00

@@ -7,6 +7,8 @@ Generating : Top Layer
 
     Adding Layer      : Top Layer
 
+    Adding Layer      : Outline
+
     Adding Layer      : Multi-Layer
 
 
@@ -61,6 +63,7 @@ Used DCodes :
     D57
     D58
     D59
+    D60
 *************************************************************
 
 *************************************************************
@@ -69,12 +72,16 @@ Generating : Bottom Layer
 
     Adding Layer      : Bottom Layer
 
+    Adding Layer      : Outline
+
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D46
+    D44
     D47
+    D48
+    D51
     D52
     D53
     D54
@@ -83,6 +90,7 @@ Used DCodes :
     D57
     D58
     D59
+    D60
 *************************************************************
 
 *************************************************************
@@ -91,10 +99,12 @@ Generating : Top Overlay
 
     Adding Layer      : Top Overlay
 
+    Adding Layer      : Outline
+
 
 Used DCodes :
-    D46
-    D60
+    D48
+    D51
     D61
     D62
     D63
@@ -107,6 +117,8 @@ Generating : Top Paste
       File : PCB1_Tejas.GTP
 
     Adding Layer      : Top Paste
+
+    Adding Layer      : Outline
 
     Adding Layer      : Top Layer
 
@@ -137,6 +149,7 @@ Used DCodes :
     D30
     D31
     D32
+    D33
     D34
     D35
     D36
@@ -146,10 +159,11 @@ Used DCodes :
     D40
     D41
     D42
-    D43
     D44
     D45
-    D50
+    D46
+    D48
+    D51
     D66
 *************************************************************
 
@@ -159,12 +173,16 @@ Generating : Top Solder
 
     Adding Layer      : Top Solder
 
+    Adding Layer      : Outline
+
     Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D48
+    D51
     D67
     D68
     D69
@@ -209,6 +227,7 @@ Used DCodes :
     D108
     D109
     D110
+    D111
 *************************************************************
 
 *************************************************************
@@ -217,18 +236,24 @@ Generating : Bottom Solder
 
     Adding Layer      : Bottom Solder
 
+    Adding Layer      : Outline
+
     Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D48
+    D51
+    D102
     D105
     D106
     D107
     D108
     D109
     D110
+    D111
 *************************************************************
 
 *************************************************************
@@ -237,12 +262,16 @@ Generating : Bottom Paste
 
     Adding Layer      : Bottom Paste
 
+    Adding Layer      : Outline
+
     Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D48
+    D51
 *************************************************************
 
 *************************************************************
@@ -251,7 +280,11 @@ Generating : Bottom Overlay
 
     Adding Layer      : Bottom Overlay
 
+    Adding Layer      : Outline
+
 
 Used DCodes :
+    D48
+    D51
 *************************************************************
 
