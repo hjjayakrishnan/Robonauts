@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Robonauts.PrjPcb]
+   Generated File[PCB1_Tejas.TXT]
+   Generated File[PCB1_Tejas.DRL]
+   Generated File[PCB1_Tejas.LDP]
+   Generated File[PCB1_Tejas.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 17:38:01 On 05-04-2017
